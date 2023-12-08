@@ -1,0 +1,3 @@
+[submodule "airsim_simulation_resources"]
+	path = airsim_simulation_resources
+	url = https://github.com/mgmateus/airsim_simulation_resources
